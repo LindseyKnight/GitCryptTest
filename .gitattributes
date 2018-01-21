@@ -1,3 +1,4 @@
 #pattern  filter=crypt diff=crypt
 
 secret1.txt  filter=crypt diff=crypt
+secret2.txt  filter=crypt diff=crypt
